@@ -1,0 +1,107 @@
+
+ul{
+    list-style-type: none;
+    margin-left: 25%;
+    
+}
+li{
+    display: inline-block;
+    width: 120px;
+    height: 90px;
+    border: 1px solid lightgrey;
+    text-align: center;
+    margin-right: 5px;
+    
+
+}
+p{
+    padding-top: 25px;
+    font-family: arial black;
+    font-size: 0.8em;
+    color:grey;
+}
+h2{
+    font-family: arial black;
+    color:rgb(84, 84, 84);
+    margin-left: 26%
+    
+}
+
+.tt{  
+
+background-image:url("tt.png");
+background-size: 100%;
+background-repeat: no-repeat;
+padding: 0px 40px 40px 20px;
+
+ }
+
+
+
+
+.Rok{
+    background-image:url("Rock.png");
+background-size: 100%;
+background-repeat: no-repeat;
+padding: 0px 40px 40px 20px;
+
+
+}
+
+.RnB{
+    background-image:url("R.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 0px 40px 40px 20px;
+
+}
+.Alt{
+
+    background-image:url("alternative.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 0px 40px 40px 20px;
+}
+.country{
+
+    background-image:url("countre.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 0px 40px 40px 20px;
+
+}
+.PoP{
+
+    background-image:url("pop.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 0px 40px 40px 20px;
+}
+.Jazz{
+    background-image:url("jazz.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 0px 40px 40px 20px;
+
+}
+.Reggae{
+
+    background-image:url("Reggae.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 0px 40px 40px 20px;
+}
+
+.but{
+    text-decoration: none;
+    color:maroon;
+    text-align: center;
+    display: inline-block;
+    border: 1px solid lightgrey;
+    width: 180px;
+    height: 30px;
+    padding-top: 10px;
+    margin-left: 40% ;
+    font-family: arial black;
+    font-size: 0.8em;
+}
