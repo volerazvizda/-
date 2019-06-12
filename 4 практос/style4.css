@@ -1,0 +1,97 @@
+
+section{
+    margin-left: 28.5%;
+}
+article{
+    text-align: center;
+    display: inline-block;
+    list-style-type: none;
+    padding: 10px 10px 10px 10px;
+    
+    float: left;
+   
+
+ }
+ div{
+    background-color : rgb(190, 190, 190);
+    
+    padding: 0.1px;
+    margin-top: 10.3%;
+
+ }
+ ul{
+ 
+    list-style-type: none; 
+    background-color: yellow;
+    width: 200px;
+    height: 293px;
+    float: left;
+ 
+
+  
+ }
+ p{
+     margin-right: 18.5%;
+ }
+h2{
+    margin-right: 18%;
+    font-size: 100%
+}
+h4{
+    margin-right: 18.5%;
+    font-size: 90%
+}
+
+
+ h1{
+    position: relative;
+    bottom: 70px;
+    font-size: 3em;
+    margin:  0px 0px 0px 0px;
+    text-align: center;
+    opacity: 0.16;
+    color: lightslategray;
+
+ }
+ h3{
+    text-align: center;
+}
+
+img{
+    width: 162px;
+}
+hr{
+    margin: 5px ;
+    width: 130;
+    border: none;
+    border-top: 2px dotted rgb(14, 0, 0);
+}
+h5{
+    width: 130px;
+height: 10px;
+margin-left: 5%;
+font-size: 13px;
+}
+h6{
+    width: 130px;
+    height: 1px;
+    margin-left: 5%;
+    font-size: 9px;
+    margin-top: 13%;
+}
+a{
+     cursor: url(images/sniper.cur), pointer; 
+     margin-right: 10%;
+
+    
+}
+
+.img1{
+    width: 15px;
+    height: 15px;
+}
+nav{
+    margin-right: 10%;
+    margin-top: 50%;
+
+}
